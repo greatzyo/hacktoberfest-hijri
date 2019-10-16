@@ -20,7 +20,7 @@ test('check yesterday and tomorrow', () => {
 });
 
 test('check last year', () => {
-    expect(hijriConverter("2019-10-19", 0)).toBe("Jumuah, 9 Safar 1440 H");
+    expect(hijriConverter("2018-10-19", 0)).toBe("Jumuah, 9 Safar 1440 H");
 });
 
 test('shoud error. adjust: -3 and 3', () => {
