@@ -21,7 +21,7 @@ $ npm run install
 6. Contoh inputan: 
 ```
 hijriConverter("2019-10-19", 0) // Sabt, 20 Safar 1441 H
-hijriConverter("19-10-2019", 2) // Sabt, 20 Safar 1441 H
+hijriConverter("2019-10-19", 2) // Sabt, 22 Safar 1441 H
 hijriConverter("2019-10-19", -2) // Sabt, 18 Safar 1441 H
 ```
 
